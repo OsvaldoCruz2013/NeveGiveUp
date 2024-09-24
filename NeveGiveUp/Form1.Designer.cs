@@ -310,7 +310,7 @@
             textBox13.Location = new Point(309, 118);
             textBox13.Margin = new Padding(4, 5, 4, 5);
             textBox13.Name = "textBox13";
-            textBox13.Size = new Size(120, 32);
+            textBox13.Size = new Size(150, 32);
             textBox13.TabIndex = 29;
             // 
             // label15
